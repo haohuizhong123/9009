@@ -1,2 +1,2 @@
-serer:
-  prt: 9065
+server:
+  port: 9065
